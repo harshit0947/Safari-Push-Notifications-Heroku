@@ -7,19 +7,19 @@
 
 // ** Push server site settings ** //
 /* Web Service Base URL */
-define('WEBSERVICE_URL', 'https://example.herokuapp.com');
+define('WEBSERVICE_URL', 'https://push-demo778.herokuapp.com');
 
 /* Website Push ID unique identifier */
-define('WEBSITE_UID', 'web.com.herokuapp.example');
+define('WEBSITE_UID', 'web.com.herokuapp.push-demo778');
 
 /* Website Name */
 define('WEBSITE_NAME', 'Safari Push Notification Test');
 
 /* Allowed Domains, must be comma-seperated and quoted */
-define('ALLOWED_DOMAINS', '"http://example.herokuapp.com", "https://example.herokuapp.com"');
+define('ALLOWED_DOMAINS', '"http://push-demo778.herokuapp.com", "https://push-demo778.herokuapp.com"');
 
 /* URL string format for links */
-define('URL_FORMAT', 'http://example.herokuapp.com/%@/');
+define('URL_FORMAT', 'http://push-demo778.herokuapp.com/%@/');
 
 
 // ** Certificate settings - certificates provided by Apple ** //

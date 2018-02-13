@@ -23,7 +23,7 @@ define('URL_FORMAT', 'http://push-demo778.herokuapp.com/%@/');
 
 
 // ** Certificate settings - certificates provided by Apple ** //
-define('CERTIFICATE_PATH', './Push.p12');     // Change this to the path where your certificate is located
+define('CERTIFICATE_PATH', './Certificates.p12');     // Change this to the path where your certificate is located
 define('CERTIFICATE_PASSWORD', ''); // Change this to the certificate's import password
 define('PRODUCTION_CERTIFICATE_PATH', './pushcert.pem'); // Change this to the path to your Website Push ID Production Certificate
 
